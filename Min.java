@@ -1,4 +1,4 @@
-class Min {
+class Min {                      // this is java project
 
 	private static final int NO_PARENT = -1;
 	private static void MinDIS(int[][] adjMatrix,int sV)        //sV is start node
