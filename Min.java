@@ -11,7 +11,7 @@ class Min {                      // this is java project
 
 		for (int Index = 0; Index < nV; Index++)
 		{
-			shortestDis[Index] = Integer.MAX_VALUE;
+			shortestDis[Index] = Integer.MAX_VALUE;                           // This project is completed
 			added[Index] = false;
 		}
 		shortestDis[sV] = 0;
