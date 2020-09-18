@@ -7,7 +7,7 @@ class Min {                      // this is java project
 		System.out.println("From Source to destination total number of Road Side Unit is:-"+nV);
 		int[] shortestDis = new int[nV];
 	
-		boolean[] added = new boolean[nV];
+		boolean[] added = new boolean[nV];                      // this is changed project
 
 		for (int Index = 0; Index < nV; Index++)
 		{
