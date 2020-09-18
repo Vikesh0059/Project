@@ -4,7 +4,7 @@ s=""
 i=0
 for x in string:
     if x!=" ":
-        rev=rev+x
+        rev=rev+x            #This is a program of reverse of string
     else:
         length=len(rev)-1
         while length>=0:
